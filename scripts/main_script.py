@@ -1,11 +1,9 @@
-#!/usr/bin/env python
-#coding:utf-8
+# -*- coding: utf-8 -*-
 """
-  Author:  Lukas Küpper - Sifeiros --<>
-  Purpose: 
-  Created: 27.03.2017
+Part of the pyconvolve framework for convolution and deconvolution. 
+Author: Lukas Küpper, 2018
+License: GPLv3
 """
-
 import os
 import numpy as np
 import numpy.random as np_ra
